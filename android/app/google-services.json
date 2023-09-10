@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743321242950",
+    "project_id": "gabut-flutter",
+    "storage_bucket": "gabut-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743321242950:android:f9afb7bfcfb0eb75376947",
+        "android_client_info": {
+          "package_name": "com.example.gabut_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UWjk_qmnX1lpHOchI1En6v6IY-Cif7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

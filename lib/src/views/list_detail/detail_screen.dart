@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gabut_flutter/src/detail_widget.dart';
+import 'package:gabut_flutter/src/views/list_detail/detail_widget.dart';
 
 class DetailScreen extends StatefulWidget {
   final String title;

@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 class UnsubscribeForm extends StatefulWidget {
@@ -25,7 +24,7 @@ class _UnsubscribeFormState extends State<UnsubscribeForm> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            '😢 Opp\'s, it is so sad that you want to leave!',
+            'It is so sad that you want to leave 😢 ',
             style: Theme.of(context).textTheme.titleLarge,
           ),
           const SizedBox(height: 20),
